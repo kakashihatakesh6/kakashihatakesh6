@@ -1,5 +1,5 @@
 <!--------header--------->
-<h2 align="center">Hey You! It's me Kakashi👋</h2>
+<h2 align="center">Hey You! It's me Nikhil👋</h2>
 
 <nav align="center">
     <p align="center">
@@ -20,7 +20,7 @@
 <!--------<h3>About Me 🙋‍♂️</h3>--------->
 
 ### About me :raising_hand_man:
-<p>I'm a undergraduate student at Manipal Institute of technology, Karnataka.I'm a web developer and competitive programmer, work on web projects.</p>
+<p>I'm a undergraduate student at Government Engineering College, Bilaspur.I'm a web developer and competitive programmer, work on web projects.</p>
 <img align="right" src="https://github.com/KakshiHatakesh6/LordFifthMinato/blob/main/p-img_3.gif" width="350px"/>
 
 <!---------- Skill Section --------------->
