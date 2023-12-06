@@ -24,11 +24,7 @@
 <p>I'm a undergraduate student at Government Engineering College, Bilaspur.I'm a web developer, android developer and competitive programmer, currently working on web projects.</p>
 <img align="right" width="383px" height="230px"
     src="https://github.com/kakashihatakesh6/kakashihatakesh6/assets/95236055/8f116b82-130f-4d04-af4f-b0f6feab2f70"
-    style="margin-right: 73px;
-    margin-top: 21px;
-    border-radius: 27px;
-    border: 5px solid #ffffff;
-    padding: 0;" >
+    style="margin-right: 73px; margin-top: 21px; border-radius: 27px; border: 5px solid #fff; padding: 0;" >
 
 <!---------- Skill Section --------------->
 ### Technical Skills
