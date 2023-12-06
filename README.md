@@ -20,7 +20,7 @@
 <!--------<h3>About Me 🙋‍♂️</h3>--------->
 
 ### About me :raising_hand_man:
-<p>I'm a undergraduate student at Government Engineering College, Bilaspur.I'm a web developer and competitive programmer, work on web projects.</p>
+<p>I'm a undergraduate student at Government Engineering College, Bilaspur.I'm a web developer, android developer and competitive programmer, currently working on web projects.</p>
 <img align="right" src="https://github.com/KakshiHatakesh6/LordFifthMinato/blob/main/p-img_3.gif" width="350px"/>
 
 <!---------- Skill Section --------------->
