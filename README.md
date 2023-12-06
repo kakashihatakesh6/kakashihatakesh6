@@ -22,7 +22,7 @@
 
 ### About me :raising_hand_man:
 <p>I'm a undergraduate student at Government Engineering College, Bilaspur.I'm a web developer, android developer and competitive programmer, currently working on web projects.</p>
-<img align="right" src="/public/images/img-3.gif" width="350px">
+<img align="right" src="/public/images/img-3.gif" width="350px" height="200px">
 
 <!---------- Skill Section --------------->
 ### Technical Skills
