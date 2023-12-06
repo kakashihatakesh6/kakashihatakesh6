@@ -14,7 +14,6 @@
      <a href="https://www.instagram.in/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Kakashi|Instagram"></a>
   </p>
 </nav>
-![p-img_1](https://github.com/kakashihatakesh6/kakashihatakesh6/assets/95236055/5083a20c-9362-4042-a446-4cf889325179)
 
 
 <!--------About Section--------->
@@ -23,7 +22,7 @@
 
 ### About me :raising_hand_man:
 <p>I'm a undergraduate student at Government Engineering College, Bilaspur.I'm a web developer, android developer and competitive programmer, currently working on web projects.</p>
-<img align="right" width="383px" height="230px" src="https://github.com/kakashihatakesh6/kakashihatakesh6/assets/95236055/5083a20c-9362-4042-a446-4cf889325179" style="margin-right: 73px; margin-top: 21px; border-radius: 27px; border: 5px solid #fff; padding: 0;">
+<img align="right" width="383px" height="230px" src="https://github.com/kakashihatakesh6/kakashihatakesh6/assets/95236055/5083a20c-9362-4042-a446-4cf889325179" style="margin-right: 73px;">
 
 <!---------- Skill Section --------------->
 ### Technical Skills
