@@ -22,7 +22,6 @@
 
 ### About me :raising_hand_man:
 <p>I'm a undergraduate student at Government Engineering College, Bilaspur.I'm a web developer, android developer and competitive programmer, currently working on web projects.</p>
-<img align="center" width="70vw" height="230px" src="https://github.com/kakashihatakesh6/kakashihatakesh6/assets/95236055/5083a20c-9362-4042-a446-4cf889325179" style="margin-right: 150px;">
 
 <!---------- Skill Section --------------->
 ### Technical Skills
@@ -36,3 +35,4 @@
   <li><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></li>
   <li><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen](https://www.flaticon.com/free-icon/structure_3334886?term=react&related_id=3334886)https://www.flaticon.com/free-icon/structure_3334886?term=react&related_id=3334886"></li>
 </ul>
+<img align="center" width="70vw" height="230px" src="https://github.com/kakashihatakesh6/kakashihatakesh6/assets/95236055/5083a20c-9362-4042-a446-4cf889325179" style="margin-right: 150px;">
