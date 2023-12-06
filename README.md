@@ -16,13 +16,14 @@
 </nav>
 
 
-<!--------About Section--------->
+<!--------About Section--------->![p-img_2](https://github.com/kakashihatakesh6/kakashihatakesh6/assets/95236055/b381e1b0-4c45-4f1d-917b-df058bd8f1c1)
+
 
 <!--------<h3>About Me 🙋‍♂️</h3>--------->
 
 ### About me :raising_hand_man:
 <p>I'm a undergraduate student at Government Engineering College, Bilaspur.I'm a web developer, android developer and competitive programmer, currently working on web projects.</p>
-<img align="right" src="/public/images/img-3.gif" >
+<img align="right" src="https://github.com/kakashihatakesh6/kakashihatakesh6/assets/95236055/b381e1b0-4c45-4f1d-917b-df058bd8f1c1" >
 
 <!---------- Skill Section --------------->
 ### Technical Skills
