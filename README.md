@@ -36,3 +36,5 @@
   <li><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></li>
   <li><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/></li>
 </ul>
+
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakashihatakesh6&theme=dark&show_icons=true)
