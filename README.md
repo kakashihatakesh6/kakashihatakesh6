@@ -15,13 +15,14 @@
   </p>
 </nav>
 
+
 <!--------About Section--------->
 
 <!--------<h3>About Me 🙋‍♂️</h3>--------->
 
 ### About me :raising_hand_man:
 <p>I'm a undergraduate student at Government Engineering College, Bilaspur.I'm a web developer, android developer and competitive programmer, currently working on web projects.</p>
-<img align="right" src="https://github.com/KakshiHatakesh6/LordFifthMinato/blob/main/p-img_3.gif" width="350px"/>
+![p-img_1](https://github.com/kakashihatakesh6/kakashihatakesh6/assets/95236055/9d88e057-ef57-4066-9389-c122b77f0bd3)
 
 <!---------- Skill Section --------------->
 ### Technical Skills
